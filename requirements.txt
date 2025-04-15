@@ -1,0 +1,10 @@
+pypdf
+docarray
+pydantic==1.10.8
+"langchain[docarray]"
+langchain_openai
+langchain_community
+openai-whisper
+pytube
+streamlit
+pytubefix
